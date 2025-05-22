@@ -8,6 +8,7 @@ env/
 .env           # Where database passwords are stored
 venv/          # Virtual environment for testing
 .venv
+.html
 
 # Teacher IDE settings
 .vscode/       # Ms. Rodriguez uses VS Code
